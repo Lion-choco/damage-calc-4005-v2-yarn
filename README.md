@@ -8,6 +8,8 @@
 
 以上 3 つの整数値が与えられ、結果として実効ダメージが整数値として得られます。
 
+[![CircleCI](https://circleci.com/gh/Lion-choco/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/Lion-choco/damage-calc-4005-v2-yarn)
+
 計算アルゴリズムは以下のように定義されます。
 
 - 負の入力値があった場合には0として扱い、2000以上の入力値は2000として扱う。
